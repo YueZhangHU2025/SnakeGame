@@ -10,7 +10,7 @@
 
 4. Score for 'pi': Increases the score by 1 when the snake eats 'pi'.
 
-5. Score Reset for 'y': Resets the score to 0 when the snake eats 'y'.
+5. Score Reset for 'y': Resets the score to -1 when the snake eats 'y'.
 
 6. Centered Score Display: Displays the score centered at the top in bold (default color).
 
